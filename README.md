@@ -14,6 +14,7 @@ Collection of resources for learning about various topics.
   > A hypothesis tree helps dissect doubts. It’s simply a structure for an overarching thesis and supporting points.
 * [x] [A Simple Framework for Handling Customer Feedback -- David Cancel](https://www.drift.com/blog/customer-feedback-framework/)
   - 3 classes of problems: "How can I..." (Usability), "Can you..." (Marketing/Discoverabilty), "might not be target audience, but..." (Positioning)
+* [ ] [Customer Intimacy and Other Value Disciplines -- Michael Treacy and Fred Wiersema](https://hbr.org/1993/01/customer-intimacy-and-other-value-disciplines)
 
 ## Cloud
 * [ ] [Kubernetes in Action -- Marko Lukša](https://www.safaribooksonline.com/library/view/kubernetes-in-action/9781617293726/)
