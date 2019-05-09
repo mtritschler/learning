@@ -36,6 +36,8 @@ Collection of resources for learning about various topics.
 * [ ] [RFC 7642: SCIM Definitions, Overview, Concepts, and Requirements](https://tools.ietf.org/html/rfc7642)
 * [ ] [RFC 7643: SCIM Core Schema](https://tools.ietf.org/html/rfc7643)
 * [ ] [RFC 7644: SCIM Protocol](https://tools.ietf.org/html/rfc7644)
+* [ ] [The difference between Single Sign-On and Federated Identity Management](https://blog.centrify.com/federated-identity-management-vs-sso/)
+* [ ] [What is federated identity management?](https://wso2.com/articles/2018/06/what-is-federated-identity-management)
 
 ## Engineering
 * [x] Metaphors We Compute By -- Alvaro Videla ([blog post](http://alvaro-videla.com/2017/01/metaphors-we-code-by.html), [talk](https://www.youtube.com/watch?v=okUmXP1vAic))
