@@ -27,6 +27,16 @@ Collection of resources for learning about various topics.
   > been around single-threaded programs. Anyone who has debugged multi-threaded 
   > code knows how much more difficult it is to reason about such systems
 
+## IAM
+* [ ] [The OAuth 2.0 Authorization Framework (RFC 6749)](https://tools.ietf.org/html/rfc6749)
+* [ ] [JSON Web Token (JWT) (RFC 7519)](https://tools.ietf.org/html/rfc7519)
+* [ ] [OpenID Connect](https://openid.net/developers/specs/)
+* [ ] [SAML](http://saml.xml.org/saml-specifications)
+* [ ] [System for Cross-domain Identity Management (SCIM)](http://www.simplecloud.info/)
+* [ ] [RFC 7642: SCIM Definitions, Overview, Concepts, and Requirements](https://tools.ietf.org/html/rfc7642)
+* [ ] [RFC 7643: SCIM Core Schema](https://tools.ietf.org/html/rfc7643)
+* [ ] [RFC 7644: SCIM Protocol](https://tools.ietf.org/html/rfc7644)
+
 ## Engineering
 * [x] Metaphors We Compute By -- Alvaro Videla ([blog post](http://alvaro-videla.com/2017/01/metaphors-we-code-by.html), [talk](https://www.youtube.com/watch?v=okUmXP1vAic))
   > We must strive to make our programs as easy to understand to other programers 
